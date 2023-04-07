@@ -166,11 +166,11 @@ footer{
     border-radius: 30px;
 }
 .logofb{
-    background: url(hinh/Facebook_Logo_\(2019\).png);
+    background: url(/hinh/Facebook_Logo_\(2019\).png);
     background-size: cover;
 }
 .logoig{
-    background: url(hinh/instagram-logo-instagram-icon-transparent-free-png.png);
+    background: url(/hinh/instagram-logo-instagram-icon-transparent-free-png.png);
     background-size: cover;
 }
 .logoyt{
